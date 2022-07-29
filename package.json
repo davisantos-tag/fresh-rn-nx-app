@@ -26,6 +26,7 @@
     "@react-native-community/cli": "8.0.4",
     "@react-native-community/cli-platform-android": "8.0.4",
     "@react-native-community/cli-platform-ios": "8.0.4",
+    "@testing-library/react-native": "11.0.0",
     "@types/jest": "27.4.1",
     "@types/node": "16.11.7",
     "@types/react": "18.0.15",
