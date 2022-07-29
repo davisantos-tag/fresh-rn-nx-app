@@ -23,7 +23,7 @@
       "executor": "@nrwl/react-native:bundle",
       "outputs": ["apps/mobile/build"],
       "options": {
-        "entryFile": "src/main.tsx",
+        "entryFile": "index.js",
         "platform": "ios",
         "bundleOutput": "dist/apps/mobile/ios/main.jsbundle"
       }
@@ -43,7 +43,7 @@
     "bundle-android": {
       "executor": "@nrwl/react-native:bundle",
       "options": {
-        "entryFile": "src/main.tsx",
+        "entryFile": "index.js",
         "platform": "android",
         "bundleOutput": "dist/apps/mobile/android/main.jsbundle"
       }
