@@ -70,6 +70,12 @@
         "jestConfig": "apps/mobilei-os/jest.config.ts",
         "passWithNoTests": true
       }
+    },
+    "davis-custom-command": {
+      "executor": "@nrwl/workspace:run-commands",
+      "options": {
+        "command": "echo pre_building_context"
+      }
     }
   },
   "tags": []
