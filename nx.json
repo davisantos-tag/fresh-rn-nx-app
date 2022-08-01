@@ -1,6 +1,6 @@
 {
   "$schema": "./node_modules/nx/schemas/nx-schema.json",
-  "npmScope": "fresh-rn-nx-app",
+  "npmScope": "fresh-rn-nx-appi-os",
   "affected": {
     "defaultBase": "main"
   },
@@ -24,5 +24,5 @@
       "dependsOn": ["^build"]
     }
   },
-  "defaultProject": "mobile"
+  "defaultProject": "mobilei-os"
 }

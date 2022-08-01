@@ -2,7 +2,7 @@
   "$schema": "./node_modules/nx/schemas/workspace-schema.json",
   "version": 2,
   "projects": {
-    "mobile": "apps/mobile",
-    "mobile-e2e": "apps/mobile-e2e"
+    "mobilei-os": "apps/mobilei-os",
+    "mobilei-os-e2e": "apps/mobilei-os-e2e"
   }
 }
